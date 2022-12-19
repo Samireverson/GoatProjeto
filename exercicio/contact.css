@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+}
+#logo{
+    float: left;
+  }
+  
+  header{
+    background-color: black;
+    height: 50px;
+    padding: 20px;
+  }
+  
+  footer{
+    color: white;
+    font-size: medium;
+    clear: both;
+    background-color: black;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+  }
+  .container{
+    width: 960px;
+    margin: auto;
+  }
+  #menu{
+    margin-top: 20px;
+    float: right;
+  }
+  #menu a {
+    padding: 15px 30px;
+    text-decoration: none;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+  }
+  #menu a:hover{
+    background-color: white;
+    color: black;
+  }
+h1{
+    border: 10px green solid;
+    border-radius: 50%;
+    border-top: double 10px;
+    border-bottom: double 10px;
+    margin: 20px;
+    padding: 30px;
+    font-size: 50px;
+}
+
+input{
+    border: solid darkgreen;
+}
+
